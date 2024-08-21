@@ -1,0 +1,142 @@
+.head{
+    width: 100%;
+    height: 90px;
+    background: #3b5998;
+}
+body{
+    margin: 0;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.left-head{
+    width: 50%;
+    padding-top: 20px;
+    float: left;
+
+}
+.right-head{
+    width: 50%;
+    float: left;
+    padding-top: 10px;
+}
+.logo{
+    text-decoration: none;
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    margin-left: 200px;
+    
+}
+.login-label{
+    color: white;
+    font-size: 15px;
+}
+.Forgotton{
+    text-decoration: none;
+    color: #9cb4d8;
+    font-size: 13px;
+}
+.table{
+    margin-left: 200px;
+}
+.login-button{
+    color: white;
+    background: #4267b2;
+    cursor: pointer;
+    border-color: #29487d;
+}
+.login-button:hover{
+    background: #3b5998;
+}
+.login-button:active{
+    background-color: #12294f;
+}
+.left-body{
+    width: 60%;
+    float: left;
+    padding-top: 30px;
+
+}
+.right-body{
+    width: 40%;
+    float: left;
+}
+.main-body{
+    background: linear-gradient(white, #d3d8e8);
+    width: 100%;
+    height: 600px;
+}
+.image{
+    width: 700px;
+    padding-left: 135px;
+}
+.para{
+    font-weight: bold;
+    font-size: 25px;
+    padding-left: 135px;
+    color: darkblue;
+}
+h1{
+    margin-block-end: 1px;
+}
+h4{
+    margin-block-start: 10px;
+}
+.input{
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+    border-style: hidden;
+    font-size: 15px;
+
+  }
+  .input2{
+    height: 30px;
+    margin-top: 15px;
+    width: 410px;
+    height: 30px;
+    margin-top: 15px;
+    border-style: hidden;
+  }
+  .input3{
+    height: 30px;
+    margin-top: 15px;
+    width: 200px;
+    height: 30px;
+    margin-top: 15px;
+    border-style: hidden;
+  }
+  .date{
+  
+    background: aliceblue;
+    height: 25px;
+    border-radius: 5px;
+    border-style: hidden;
+    width: 60px;
+    font-size: 15px;
+  }
+  .month{
+    background: aliceblue;
+    height: 25px;
+    border-radius: 5px;
+    border-style: hidden;
+    width: 80px;
+    font-size: 15px;
+  }
+  .link{
+    text-decoration: none;
+    color: blue;
+  }
+  .signup-button{
+    width: 200px;
+    height: 40px;
+    background-color: green;
+    color: white;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    cursor: pointer;
+    border-radius: 5px;
+    border-style: hidden;
+    border-color: white;
+  }  
+ 
